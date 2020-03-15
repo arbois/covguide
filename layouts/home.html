@@ -1,4 +1,3 @@
-
 {{ define "main" }}
     <main aria-role="main">
       <header class="homepage-header">
@@ -11,11 +10,8 @@
         <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
         {{.Content}}
       </div>
-      <div>
-        <!-- Note that .Pages is the same as .Site.RegularPages on the homepage template. -->
-        {{ range first 10 .Pages }}
-            {{ .Render "summary"}}
-        {{ end }}
+      <div class="homepage-content">
+        {{ with .Site.GetPage "/guide/guide.md" }}{{.Content}}{{ end }}
       </div>
     </main>
 {{ end }}

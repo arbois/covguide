@@ -3,6 +3,7 @@ title: "Coronavirus Guide for Food and Beverage"
 date: 202-03-14T21:48:09Z
 draft: false
 
+
 ---
 
 ## What it is, why it’s bad—and how you can help
@@ -25,6 +26,6 @@ Please share this document with your network and as many folks as you can. The m
 
 Feel free to send us any translated documents and we will disturbute them from this website. 
 
-## Read on: 
+### Read on: 
 ---
 
