@@ -26,6 +26,3 @@ Please share this document with your network and as many folks as you can. The m
 
 Feel free to send us any translated documents and we will disturbute them from this website. 
 
-### Read on: 
----
-

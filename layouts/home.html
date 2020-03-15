@@ -10,8 +10,6 @@
         <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
         {{.Content}}
       </div>
-      <div class="homepage-content">
-        {{ with .Site.GetPage "/guide/guide.md" }}{{.Content}}{{ end }}
-      </div>
+      
     </main>
 {{ end }}
