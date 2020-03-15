@@ -9,17 +9,5 @@
         <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Coronavirus Guide for Food and Beverage</title>
-      <link>/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/</guid>
-      <description><img  src="https://images-na.ssl-images-amazon.com/images/P/.LZZZZZZZ.jpg" />
-
-    What it is, why it’s bad—and how you can help  Welcome to the Coronavirus Guide for Food and Beverage. This guide was written to help food and beverage folks figure out how to be safe and handle Coronavirus COVID-19 virus.
- You can view the pdf here: FBCoronavirusGuide.pdf You can view the docx here: FBCoronavirusGuide.docx You can add comments here: Google Docs link. Leave feedback on the guide: Feedback form  Share this guide Please share this document with your network and as many folks as you can.</description>
-    </item>
-    
   </channel>
 </rss>
