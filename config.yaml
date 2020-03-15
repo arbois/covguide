@@ -1,0 +1,23 @@
+baseURL: /
+
+publishDir: "public"
+languageCode: en-us
+title: "Coronavirus Guide for Food & Beverage"
+
+canonifyURLs: true
+enableRobotsTXT: true
+sectionPagesMenu: main
+
+params:
+  ga_id: "UA-xxxxx-xx"
+  description: "What it is, why it’s bad—and how you can help"
+  keywords: ""
+  cachebuster: ""
+  name: "Vaughn Tan"
+  email: FBCoronavirusGuide@gmail.com
+  icon: fa-utensils
+
+
+disableKinds:
+  - section
+
