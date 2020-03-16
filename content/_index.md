@@ -17,8 +17,7 @@ The suggestions here are low/no-cost and are generally good practice—they have
 We'll update the guide continually to incorporate comments and new developments as we learn more about coronavirus. 
 
 * View the most current version of the PDF here: [FBCoronavirusGuide.pdf](https://docs.google.com/document/d/13n1TeOl_cB_jJhRzGNztgInzTZhWpLwW52K4q7hwnlQ/export?format=pdf)
-* Add comments here: [Google Docs link](https://docs.google.com/document/d/13n1TeOl_cB_jJhRzGNztgInzTZhWpLwW52K4q7hwnlQ/edit?usp=sharing). 
-* Leave feedback here: [Feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdN39Moz6W4IOFER0kWB39rW90frkA89XanlFaEwzd3M-oBTQ/viewform)
+* Add comments and feedback here: [Live document](https://docs.google.com/document/d/13n1TeOl_cB_jJhRzGNztgInzTZhWpLwW52K4q7hwnlQ/edit?usp=sharing). 
 
 ### Share this guide
 
@@ -26,7 +25,12 @@ Please share this document widely: the more businesses adopt these suggestions, 
 
 ### We need help translating this document
 
-Please translate this document into any language and share your translation widely. You can copy the full text from this [Google Doc](https://docs.google.com/document/d/13n1TeOl_cB_jJhRzGNztgInzTZhWpLwW52K4q7hwnlQ/edit?usp=sharing). Before translating the guide, please take a look at the license terms at the bottom of this page. 
+Please translate this document into any language and share your translation widely. You can copy the most current full text from this [live document](https://docs.google.com/document/d/13n1TeOl_cB_jJhRzGNztgInzTZhWpLwW52K4q7hwnlQ/edit?usp=sharing). 
+
+If you intend to translate, please 
+* Look [here](https://docs.google.com/spreadsheets/d/1FcycksxjVAverq6UVtnmsvjf5a8yX0Qnl44Q3qfUITI/edit?usp=sharing) first to see if anyone else is already working on that language.
+* If no one's on it yet, let us know that you're on the job using [this form](https://forms.gle/SQodYzXV2gAA6q6W8).
+* Be sure to read the [license terms](https://creativecommons.org/licenses/by-nc/4.0/) before you begin work.
 
 There have been requests for translations into: Spanish, Vietnamese, Simplified and Traditional Chinese, Korean, Portuguese, French, Italian.
 
