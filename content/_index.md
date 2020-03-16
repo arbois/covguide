@@ -12,7 +12,7 @@ draft: false
 
 Welcome to **The Coronavirus Guide for the Food and Beverage Industry**. 
 
-This guide was written to help people in the F&B industry reduce the risk of their business accidentally spreading Coronavirus (aka Covid-19). The suggestions here are low/no-cost and are generally good practice—they have also been evaluated by epidemiologists, public health experts, biologists, and doctors.
+This guide is specifically written to help people in the F&B industry reduce the risk of their businesses accidentally spreading Coronavirus (aka Covid-19). The suggestions here are low/no-cost and are generally good practice—they have also been evaluated by epidemiologists, public health experts, biologists, and doctors.
 
 * View the PDF here: [FBCoronavirusGuide.pdf](./docs/FBCoronavirusGuide.pdf) (version dated 14 March 2020)
 * Add comments here: [Google Docs link](https://docs.google.com/document/d/13n1TeOl_cB_jJhRzGNztgInzTZhWpLwW52K4q7hwnlQ/edit?usp=sharing). 
@@ -30,4 +30,4 @@ You're free to translate this document into any language and share your translat
 
 ### Contributors
 
-Many people helped put this together including Belinda Lester, Matt Jozwiak, Erik Garrison, Mika Matsuzaki, and Harper Reed.
+Many people helped put this together, including Jennifer Gardy, Belinda Lester, Erik Garrison, Mika Matsuzaki, Jake Parrott, Harper Reed, and Pam Yung.
