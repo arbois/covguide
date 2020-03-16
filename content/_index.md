@@ -10,9 +10,9 @@ draft: false
 
 ---
 
-Welcome to **The Coronavirus Guide for the Food and Beverage Industry**. 
+This guide is specifically written to help people in the F&B industry reduce the risk of their businesses accidentally spreading Coronavirus (aka Covid-19). 
 
-This guide is specifically written to help people in the F&B industry reduce the risk of their businesses accidentally spreading Coronavirus (aka Covid-19). The suggestions here are low/no-cost and are generally good practice—they have also been evaluated by epidemiologists, public health experts, biologists, and doctors.
+The suggestions here are low/no-cost and are generally good practice—they have also been evaluated by epidemiologists, public health experts, biologists, and doctors.
 
 * View the PDF here: [FBCoronavirusGuide.pdf](./docs/FBCoronavirusGuide.pdf) (version dated 14 March 2020)
 * Add comments here: [Google Docs link](https://docs.google.com/document/d/13n1TeOl_cB_jJhRzGNztgInzTZhWpLwW52K4q7hwnlQ/edit?usp=sharing). 
@@ -20,11 +20,13 @@ This guide is specifically written to help people in the F&B industry reduce the
 
 ### Share this guide
 
-Please share this document as widely as you can. The more businesses adopt these suggestions, the safer we'll all be. 
+Please share this document widely: the more businesses adopt these suggestions, the safer we'll all be. 
 
 ### We need help translating this document
 
-You're free to translate this document into any language and share your translation with anyone. Simply copy the text from this [Google Doc](https://docs.google.com/document/d/13n1TeOl_cB_jJhRzGNztgInzTZhWpLwW52K4q7hwnlQ/edit?usp=sharing). Before translating the guide, please take a look at the license terms at the bottom of this page. 
+Please translate this document into any language and share your translation widely. You can copy the full text from this [Google Doc](https://docs.google.com/document/d/13n1TeOl_cB_jJhRzGNztgInzTZhWpLwW52K4q7hwnlQ/edit?usp=sharing). Before translating the guide, please take a look at the license terms at the bottom of this page. 
+
+There have been requests for translations into: Spanish, Vietnamese, Simplified and Traditional Chinese, Korean, Portuguese, French, Italian.
 
 [Email me](mailto:me@vaughntan.org) a PDF of your translated guide to have it posted on this website. 
 
