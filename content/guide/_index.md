@@ -176,4 +176,4 @@ If you do have time to read on, there are many things you can do to reduce the r
   * Create a "buy a meal for someone who needs it" program so customers can pay you to prepare takeout that can be collected for free by someone who needs it.
   * Get in touch with local organizations that distribute food to those in need--such as food banks, churches, temples, shelters--to check if you can supply them. They may have budgets to pay you for these meals as well.
 
-Date: March 14, 2020
+Date: March 15, 2020
