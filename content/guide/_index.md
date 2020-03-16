@@ -51,15 +51,15 @@ If you do have time to read on, there are many things you can do to reduce the r
 
   * Ensure that all food safety, hygiene and COSHH documents are updated and that all staff are informed and trained as necessary.
   * Make and share a plan for staff wages so people don't feel undue financial pressure to work when they are sick. If you are able to, guarantee basic pay for hourly staff who cannot work because they are ill. 
-   * In the UK: Statutory Sick Pay (SSP) will be available from Day 1 for those unable to work because they are diagnosed with coronavirus, or self-isolating according to Government guidelines.
+    * In the UK: Statutory Sick Pay (SSP) will be available from Day 1 for those unable to work because they are diagnosed with coronavirus, or self-isolating according to Government guidelines.
   * Find out if you have a local or national coronavirus reporting hotline number. If yes, post it prominently in the restaurant, and make sure all staff know it. 
-   * In the UK, report to NHS 111.
+    * In the UK, report to NHS 111.
   * Issue all staff with an inexpensive thermometer.
   * Remind staff not to hug, fistbump, shake hands, or high-five--if possible, not even to elbow-bump. Instead find non-contact ways to show the love.  
   * Put up a clearly visible sign at the entrance and on your website asking people who are ill or elderly not to enter.
   * Check laundry processes for all service linens. This includes chef jackets, uniforms, towels, cloths, aprons, table linens. 
-   * Call your linen service to verify that it is complying with sanitation regulations for service linens. 
-   * If you launder service linens on-site, use water above 160F/70C (add bleach at the label recommended concentration to be extra-sure). If laundry water temperature is below 160F/70C, you must use hypochlorite bleach or another disinfecting product at the label recommended concentration. 
+    * Call your linen service to verify that it is complying with sanitation regulations for service linens. 
+    * If you launder service linens on-site, use water above 160F/70C (add bleach at the label recommended concentration to be extra-sure). If laundry water temperature is below 160F/70C, you must use hypochlorite bleach or another disinfecting product at the label recommended concentration. 
   * Check all cleaning and sanitation products to make sure they are antiviral--soap, alcohol, food service sanitation sprays, bleach, and hydrogen peroxide solutions should be effective. Unfortunately some natural or low-toxicity cleaning products such as vinegar or essential oils may not be antiviral. 
    * In the US, the EPA has a list of products effective against coronavirus here: [http://bit.ly/2Ucecbw][3]
 
@@ -67,16 +67,16 @@ If you do have time to read on, there are many things you can do to reduce the r
 
   * Check cleaning and sanitation products and spray bottles to make sure they are at label recommended dilution. 
   * Change how your team handles clean glass, crockery, and cutlery to reduce to the absolute minimum the number of times each piece is touched. Polishing cloths are really easy to contaminate.
-   * Stop polishing cutlery and glassware altogether.
-   * If you must polish, ensure that staff wash their hands before and after touching items, and that cloths are replaced between each use
-   * Move cutlery only once between cleaning and using for service.
+    * Stop polishing cutlery and glassware altogether.
+    * If you must polish, ensure that staff wash their hands before and after touching items, and that cloths are replaced between each use
+    * Move cutlery only once between cleaning and using for service.
   * Change how cooks plate so they only use spoons and tweezers (no use of hands, whether gloved or not).
   * Install pump-dispenser alcohol gel sanitizer bottles at kitchen and FOH stations (make sure the gel is at least 60% ethanol).
   * Move to contactless payments if possible.
   * Provide service stations with antiviral sanitizer wipes for use on cellphones, POS, payment terminals, keyboards/mice, and tablets. 
   * Most people don't know how to thoroughly wash their hands and wrists. Near staff and customer sinks, post a handwash notice with a diagram showing how to wash hands properly:
-   * Download a printable 2-page PDF with a handwash notice and WHO recommended handwash methods at: [http://bit.ly/2U4odHr][4]
-   * These are the most often-missed areas when washing hands:
+    * Download a printable 2-page PDF with a handwash notice and WHO recommended handwash methods at: [http://bit.ly/2U4odHr][4]
+    * These are the most often-missed areas when washing hands:
 
    [4]: https://www.google.com/url?q=http://bit.ly/2U4odHr&sa=D&ust=1584314280419000
 
@@ -102,20 +102,20 @@ If you do have time to read on, there are many things you can do to reduce the r
   * Remind all staff members to check their temperature every day and report even very mild cold and flu symptoms (including slight fever), and to stay home.
   * Check your dishwash system to ensure it is working correctly, running at the correct temperature, and that there are sufficient sanitizer chemicals loaded.
   * Remind staff:
-   * To call out all face-touching.
-   * Not to hug, fistbump, shake hands, or high-five. Find non-contact ways of showing the love instead.
-   * To wash hands after accidentally touching someone else.
-   * To wash hands as often as possible and at least every 10-15 minutes during service, and before and after handling cutlery, glassware, or table linens.
+    * To call out all face-touching.
+    * Not to hug, fistbump, shake hands, or high-five. Find non-contact ways of showing the love instead.
+    * To wash hands after accidentally touching someone else.
+    * To wash hands as often as possible and at least every 10-15 minutes during service, and before and after handling cutlery, glassware, or table linens.
 
 ### Do before every service
 
   * Do a pre-service reminder for all staff to:
-   * Wipe down cellphones every 10-15 minutes with an antiviral sanitizer wipe. Even better, provide a secure, locked box for staff to (voluntarily) put their cellphones in at the beginning of service.
-   * Wash hands frequently,
-   * Touch only handles when laying cutlery on tables,
-   * Avoid face-touching,
-   * Remind co-workers (discreetly) if they see them touching their face
-   * Change side towels more often than usual; every 10-15 minutes if possible
+    * Wipe down cellphones every 10-15 minutes with an antiviral sanitizer wipe. Even better, provide a secure, locked box for staff to (voluntarily) put their cellphones in at the beginning of service.
+    * Wash hands frequently,
+    * Touch only handles when laying cutlery on tables,
+    * Avoid face-touching,
+    * Remind co-workers (discreetly) if they see them touching their face
+    * Change side towels more often than usual; every 10-15 minutes if possible
 
 * * *
 
@@ -163,15 +163,15 @@ If you do have time to read on, there are many things you can do to reduce the r
 ### Planning for prolonged shutdowns or limitations on eat-in dining
 
   * Plan to convert most or all of your business to takeout or delivery
-   * Re-evaluate your menu for producing takeout-suitable foods (delicious and safe to eat even after several hours of storage)
-   * Find suppliers of takeout packaging and purchase stocks
-   * Talk to your front-of-house staff to see if they want to do deliveries of food
+    * Re-evaluate your menu for producing takeout-suitable foods (delicious and safe to eat even after several hours of storage)
+    * Find suppliers of takeout packaging and purchase stocks
+    * Talk to your front-of-house staff to see if they want to do deliveries of food
   * Know what government resources are available for coronavirus-affected businesses. 
-   * In the UK: http://bit.ly/38LH67j
+    * In the UK: http://bit.ly/38LH67j
   * Make a plan to reduce wage costs temporarily without laying off staff:
-   * Reduce hours-per-person for hourly staff
-   * Open later or close earlier
-   * Close on your lightest day/s of the week
+    * Reduce hours-per-person for hourly staff
+    * Open later or close earlier
+    * Close on your lightest day/s of the week
   * Create a gift certificate program so your customers can give you some cash in hand.
   * Create a "buy a meal for someone who needs it" program so customers can pay you to prepare takeout that can be collected for free by someone who needs it.
   * Get in touch with local organizations that distribute food to those in need--such as food banks, churches, temples, shelters--to check if you can supply them. They may have budgets to pay you for these meals as well.
