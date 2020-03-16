@@ -3,9 +3,13 @@ body{
 }
 
 a {
-  color: #000;
+  color:blue;
 }
 
 a:hover {
   color: #666666;
+}
+
+.content-break{
+  border: 1px solid black;
 }
