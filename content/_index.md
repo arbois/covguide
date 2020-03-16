@@ -14,7 +14,9 @@ This guide is specifically written to help people in the F&B industry reduce the
 
 The suggestions here are low/no-cost and are generally good practice—they have also been evaluated by epidemiologists, public health experts, biologists, and doctors.
 
-* View the PDF here: [FBCoronavirusGuide.pdf](./docs/FBCoronavirusGuide.pdf) (version dated 14 March 2020)
+We'll update the guide continually to incorporate comments and new developments as we learn more about coronavirus. 
+
+* View the most current version of the PDF here: [FBCoronavirusGuide.pdf](https://docs.google.com/document/d/13n1TeOl_cB_jJhRzGNztgInzTZhWpLwW52K4q7hwnlQ/export?format=pdf)
 * Add comments here: [Google Docs link](https://docs.google.com/document/d/13n1TeOl_cB_jJhRzGNztgInzTZhWpLwW52K4q7hwnlQ/edit?usp=sharing). 
 * Leave feedback here: [Feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdN39Moz6W4IOFER0kWB39rW90frkA89XanlFaEwzd3M-oBTQ/viewform)
 
@@ -32,4 +34,9 @@ There have been requests for translations into: Spanish, Vietnamese, Simplified 
 
 ### Contributors
 
-Many people helped put this together, including Jennifer Gardy, Belinda Lester, Erik Garrison, Mika Matsuzaki, Jake Parrott, Harper Reed, and Pam Yung.
+Many people helped put this together, including Laurence Berland, Feroz Gajia, Jennifer Gardy, Paul Henninger, Belinda Lester, Erik Garrison, Mika Matsuzaki, Jake Parrott, Harper Reed, and Pam Yung.
+
+
+
+
+
