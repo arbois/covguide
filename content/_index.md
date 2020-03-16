@@ -16,8 +16,8 @@ The suggestions here are low/no-cost and are generally good practice—they have
 
 We'll update the guide continually to incorporate comments and new developments as we learn more about coronavirus. 
 
-* View the most current version of the PDF here: [FBCoronavirusGuide.pdf](https://docs.google.com/document/d/13n1TeOl_cB_jJhRzGNztgInzTZhWpLwW52K4q7hwnlQ/export?format=pdf)
-* Add comments and feedback here: [Live document](https://docs.google.com/document/d/13n1TeOl_cB_jJhRzGNztgInzTZhWpLwW52K4q7hwnlQ/edit?usp=sharing). 
+* [Click here to view the most current version of the guide as a PDF.](https://docs.google.com/document/d/13n1TeOl_cB_jJhRzGNztgInzTZhWpLwW52K4q7hwnlQ/export?format=pdf)
+* [Click here to add comments and feedback.](https://docs.google.com/document/d/13n1TeOl_cB_jJhRzGNztgInzTZhWpLwW52K4q7hwnlQ/edit?usp=sharing). 
 
 ### Share this guide
 
