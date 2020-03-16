@@ -45,21 +45,9 @@ If you do have time to read on, there are many things you can do to reduce the r
   6. Remind all staff to wash or sanitize their hands as often as possible, ideally every 10-15 minutes or after touching a surface which might be contaminated (including cellphones, clothing, POS/payment machines, door or equipment handles, used plates/cutlery, used napkins/serviettes, and other people)
   7. Do your best to move your business as much to takeout/delivery as possible.
 
-### For many more low/no-cost things you can do to reduce coronavirus risk, please read on.
+## For many more low/no-cost things you can do to reduce coronavirus risk, please read on.
 
-To translate this guide, download an editable version at: [bit.ly/CGTranslate][1]
-
-   [1]: https://www.google.com/url?q=http://bit.ly/CGTranslate&sa=D&ust=1584314280413000
-
- 
-
-This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit 
-
-[creativecommons.org/licenses/by-nc/4.0/][2]
-
-   [2]: https://www.google.com/url?q=http://creativecommons.org/licenses/by-nc/4.0/&sa=D&ust=1584314280414000
-
-Do once
+### Do once
 
   * Ensure that all food safety, hygiene and COSHH documents are updated and that all staff are informed and trained as necessary.
   * Make and share a plan for staff wages so people don't feel undue financial pressure to work when they are sick. If you are able to, guarantee basic pay for hourly staff who cannot work because they are ill. 
