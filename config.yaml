@@ -2,7 +2,7 @@ baseURL: /
 
 publishDir: "docs"
 languageCode: en-us
-title: "Coronavirus Guide for Food & Beverage"
+title: "Coronavirus Guide for the F&B Industry"
 
 canonifyURLs: true
 enableRobotsTXT: true
