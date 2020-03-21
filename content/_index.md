@@ -18,7 +18,7 @@ We'll update the guide continually to incorporate comments and new developments 
 
 * These are the most current PDF versions of the guide.
     * [English](https://docs.google.com/document/d/13n1TeOl_cB_jJhRzGNztgInzTZhWpLwW52K4q7hwnlQ/export?format=pdf)
-    *  [Spanish](https://docs.google.com/document/d/1Xvi52dZCsps0OPARF1qnBWfS3u7bdTgioR_Su4YIcRw/export?format=pdf); submitted 3/21/2020, translated by [Esteban Londoño Jaramillo](www.instagram.com/krumelco)
+    * [Español](https://docs.google.com/document/d/1Xvi52dZCsps0OPARF1qnBWfS3u7bdTgioR_Su4YIcRw/export?format=pdf); submitted 3/21/2020, translated by [Esteban Londoño Jaramillo](www.instagram.com/krumelco)
 
 ### Share this guide
 
