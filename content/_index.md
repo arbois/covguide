@@ -23,7 +23,7 @@ These are the most current PDF versions of the guide.
 
 ### Share this guide
 
-Please share this document actively and widely: the more businesses adopt these suggestions, the safer we'll all be. 
+Please share this document actively and widely: the more businesses adopt these suggestions, the safer we'll all be. When re-posting or sharing, please link directly to this website.
 
 ### We need help translating this document
 
