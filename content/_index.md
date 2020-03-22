@@ -27,12 +27,13 @@ Please share this document widely: the more businesses adopt these suggestions, 
 
 ### We need help translating this document
 
-Please translate this document into any language and share your translation widely. You can copy the most current full text from this [live document](https://docs.google.com/document/d/13n1TeOl_cB_jJhRzGNztgInzTZhWpLwW52K4q7hwnlQ/edit?usp=sharing). 
+Please translate this document into any language and share your translation widely. There have been requests for translations into: Vietnamese, Traditional Chinese, Korean, Portuguese, French, Italian.
 
 If you intend to translate, please 
 * Look [here](https://docs.google.com/spreadsheets/d/1FcycksxjVAverq6UVtnmsvjf5a8yX0Qnl44Q3qfUITI/edit?usp=sharing) first to see if anyone else is already working on that language.
 * If no one's on it yet, let us know that you're on the job using [this form](https://forms.gle/SQodYzXV2gAA6q6W8).
 * Be sure to read the [license terms](https://creativecommons.org/licenses/by-nc/4.0/) before you begin work.
+
 
 ### Translation instructions
 
@@ -44,8 +45,6 @@ If you intend to translate, please
     * Set the link sharing section to "Anyone with the link can comment".
     * Copy the sharing link by clicking on "Copy link"
 * [Email me](mailto:me@vaughntan.org) the sharing link to post your translation on this website. We'll post a PDF version of your translation that is automatically generated from this live document. You can continue to edit and update your live document—any edits you make will automatically update the PDF.
-
-There have been requests for translations into: Vietnamese, Traditional Chinese, Korean, Portuguese, French, Italian.
 
 ### Contributors
 
