@@ -34,11 +34,18 @@ If you intend to translate, please
 * If no one's on it yet, let us know that you're on the job using [this form](https://forms.gle/SQodYzXV2gAA6q6W8).
 * Be sure to read the [license terms](https://creativecommons.org/licenses/by-nc/4.0/) before you begin work.
 
-There have been requests for translations into: Vietnamese, Simplified and Traditional Chinese, Korean, Portuguese, French, Italian.
+Translation instructions
+* Create a duplicate copy of the original document by [clicking here](https://docs.google.com/document/d/13n1TeOl_cB_jJhRzGNztgInzTZhWpLwW52K4q7hwnlQ/copy).
+* Translate the copy of the original document into your chosen language.
+* When done with your translation, enable suggestions in the document: 
+    * Click on the blue "Share" button in the upper right,
+    * Click on "Get shareable link" in the window that pops up,
+    * Set the link sharing section to "Anyone with the link can comment".
+    * Copy the sharing link by clicking on "Copy link"
+* [Email me](mailto:me@vaughntan.org) the sharing link to post your translation on this website. We'll post a PDF version of your translation that is automatically generated from this live document. You can continue to edit and update your live document—any edits you make will automatically update the PDF.
 
-[Email me](mailto:me@vaughntan.org) a PDF of your translated guide to have it posted on this website. 
+There have been requests for translations into: Vietnamese, Traditional Chinese, Korean, Portuguese, French, Italian.
 
 ### Contributors
 
 Many people helped put this together, including Laurence Berland, Feroz Gajia, Jennifer Gardy, Paul Henninger, Belinda Lester, Erik Garrison, Mika Matsuzaki, Jake Parrott, Harper Reed, and Pam Yung.
-
