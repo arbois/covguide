@@ -19,11 +19,11 @@ We'll update the English version of the guide continually to incorporate comment
 These are the most current PDF versions of the guide.
 * [English](https://docs.google.com/document/d/13n1TeOl_cB_jJhRzGNztgInzTZhWpLwW52K4q7hwnlQ/export?format=pdf); [click here to comment](https://docs.google.com/document/d/13n1TeOl_cB_jJhRzGNztgInzTZhWpLwW52K4q7hwnlQ/edit?usp=sharing).
 * [Español](https://docs.google.com/document/d/1Xvi52dZCsps0OPARF1qnBWfS3u7bdTgioR_Su4YIcRw/export?format=pdf); submitted 3/21/2020; [click here to comment](https://docs.google.com/document/d/1Xvi52dZCsps0OPARF1qnBWfS3u7bdTgioR_Su4YIcRw/edit?usp=sharing); translated by [Esteban Londoño Jaramillo](www.instagram.com/krumelco).
-* [中文 (简体)](https://docs.google.com/document/d/1tQA0WFvSzZIMzabcZgKs3e4P-zs4W1l1XR8mAJCuOCc/export?format=pdf); submitted 3/22/2020; [click here to comment](https://docs.google.com/document/d/1tQA0WFvSzZIMzabcZgKs3e4P-zs4W1l1XR8mAJCuOCc/edit?usp=sharing); translated by [Larissa Zhou](http://larissazhou.github.io/), [Lena Zhou](https://www.linkedin.com/in/lenaqzhou/), [Yan Liu](https://www.linkedin.com/in/yan-liu-59100016a/), and [Iris Lin](http://linkedin.com/in/iris-yu-ting-huang-9833861).
+* [中文 (简体)](https://docs.google.com/document/d/1tQA0WFvSzZIMzabcZgKs3e4P-zs4W1l1XR8mAJCuOCc/export?format=pdf); submitted 3/22/2020; [click here to comment](https://docs.google.com/document/d/1tQA0WFvSzZIMzabcZgKs3e4P-zs4W1l1XR8mAJCuOCc/edit?usp=sharing); translated by [Larissa Zhou](http://larissazhou.github.io/), [Lena Zhou](https://www.linkedin.com/in/lenaqzhou/), [Yan Liu](https://www.linkedin.com/in/yan-liu-59100016a/), and [Iris Huang](http://linkedin.com/in/iris-yu-ting-huang-9833861).
 
 ### Share this guide
 
-Please share this document widely: the more businesses adopt these suggestions, the safer we'll all be. 
+Please share this document actively and widely: the more businesses adopt these suggestions, the safer we'll all be. 
 
 ### We need help translating this document
 
@@ -51,6 +51,6 @@ If you intend to translate, please
 Many people helped put this together, including Laurence Berland, Feroz Gajia, Jennifer Gardy, Paul Henninger, Belinda Lester, Erik Garrison, Mika Matsuzaki, Jake Parrott, Harper Reed, and Pam Yung.
 
 
-## Disclaimer
+### Disclaimer
 
-The information provided on fnbcovidguide.com (including all links and downloads) is for general informational purposes only and provided in good faith. We make no representation or warranty of any kind, express or implied, regarding its accuracy or completeness and do not accept any liability to you for any loss or damage of any kind incurred as a result of reliance on it.
+The information provided on fnbcovidguide.com (including all links and downloads) is for general informational purposes only and is provided to you in good faith. The contributors and translators make no representation or warranty of any kind, express or implied, regarding its accuracy or completeness and do not accept any liability to you for any loss or damage of any kind incurred as a result of reliance on it.
