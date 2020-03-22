@@ -19,6 +19,7 @@ We'll update the guide continually to incorporate comments and new developments 
 * These are the most current PDF versions of the guide.
     * [English](https://docs.google.com/document/d/13n1TeOl_cB_jJhRzGNztgInzTZhWpLwW52K4q7hwnlQ/export?format=pdf).
     * [Español](https://docs.google.com/document/d/1Xvi52dZCsps0OPARF1qnBWfS3u7bdTgioR_Su4YIcRw/export?format=pdf); submitted 3/21/2020; [click here to comment](https://docs.google.com/document/d/1Xvi52dZCsps0OPARF1qnBWfS3u7bdTgioR_Su4YIcRw/edit?usp=sharing); translated by [Esteban Londoño Jaramillo](www.instagram.com/krumelco).
+    * [中文 (简体)](https://docs.google.com/document/d/1tQA0WFvSzZIMzabcZgKs3e4P-zs4W1l1XR8mAJCuOCc/export?format=pdf); submitted 3/22/2020; [click here to comment](https://docs.google.com/document/d/1tQA0WFvSzZIMzabcZgKs3e4P-zs4W1l1XR8mAJCuOCc/edit?usp=sharing); translated by Larissa Zhou, Lena Zhou, Yan Liu, and Iris Lin.
 
 ### Share this guide
 
