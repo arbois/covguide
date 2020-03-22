@@ -10,11 +10,5 @@
         <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
         {{.Content}}
       </div>
-      <hr>
-      <h1>The Guide:</h1>
-      <hr class="content-break">
-      <div class="homepage-content">
-      {{ with .Site.GetPage "/guide" }}{{ .Content }}{{ end }}
-      </div>
     </main>
 {{ end }}
