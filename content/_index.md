@@ -17,9 +17,9 @@ The suggestions here are low/no-cost and are generally good practice—they have
 We'll update the English version of the guide continually to incorporate comments and new developments as we learn more about coronavirus. 
 
 These are the most current PDF versions of the guide.
-* [English](https://docs.google.com/document/d/13n1TeOl_cB_jJhRzGNztgInzTZhWpLwW52K4q7hwnlQ/export?format=pdf); [click here to comment](https://docs.google.com/document/d/13n1TeOl_cB_jJhRzGNztgInzTZhWpLwW52K4q7hwnlQ/edit?usp=sharing).
-* [Español](https://docs.google.com/document/d/1Xvi52dZCsps0OPARF1qnBWfS3u7bdTgioR_Su4YIcRw/export?format=pdf); submitted 3/21/2020; [click here to comment](https://docs.google.com/document/d/1Xvi52dZCsps0OPARF1qnBWfS3u7bdTgioR_Su4YIcRw/edit?usp=sharing); translated by [Esteban Londoño Jaramillo](www.instagram.com/krumelco).
-* [中文 (简体)](https://docs.google.com/document/d/1tQA0WFvSzZIMzabcZgKs3e4P-zs4W1l1XR8mAJCuOCc/export?format=pdf); submitted 3/22/2020; [click here to comment](https://docs.google.com/document/d/1tQA0WFvSzZIMzabcZgKs3e4P-zs4W1l1XR8mAJCuOCc/edit?usp=sharing); translated by [Larissa Zhou](http://larissazhou.github.io/), [Lena Zhou](https://www.linkedin.com/in/lenaqzhou/), [Yan Liu](https://www.linkedin.com/in/yan-liu-59100016a/), and [Iris Huang](http://linkedin.com/in/iris-yu-ting-huang-9833861).
+* [English](https://docs.google.com/document/d/13n1TeOl_cB_jJhRzGNztgInzTZhWpLwW52K4q7hwnlQ/export?format=pdf); [comment here](https://docs.google.com/document/d/13n1TeOl_cB_jJhRzGNztgInzTZhWpLwW52K4q7hwnlQ/edit?usp=sharing).
+* [Español](https://docs.google.com/document/d/1Xvi52dZCsps0OPARF1qnBWfS3u7bdTgioR_Su4YIcRw/export?format=pdf); received 21/3/2020; [comment here](https://docs.google.com/document/d/1Xvi52dZCsps0OPARF1qnBWfS3u7bdTgioR_Su4YIcRw/edit?usp=sharing); translated by [Esteban Londoño Jaramillo](www.instagram.com/krumelco).
+* [中文 (简体)](https://docs.google.com/document/d/1tQA0WFvSzZIMzabcZgKs3e4P-zs4W1l1XR8mAJCuOCc/export?format=pdf); received 22/3/2020; [comment here](https://docs.google.com/document/d/1tQA0WFvSzZIMzabcZgKs3e4P-zs4W1l1XR8mAJCuOCc/edit?usp=sharing); translated by [Larissa Zhou](http://larissazhou.github.io/), [Lena Zhou](https://www.linkedin.com/in/lenaqzhou/), [Yan Liu](https://www.linkedin.com/in/yan-liu-59100016a/), and [Iris Huang](http://linkedin.com/in/iris-yu-ting-huang-9833861).
 
 ### Share this guide
 
