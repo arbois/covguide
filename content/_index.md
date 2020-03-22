@@ -49,3 +49,8 @@ If you intend to translate, please
 ### Contributors
 
 Many people helped put this together, including Laurence Berland, Feroz Gajia, Jennifer Gardy, Paul Henninger, Belinda Lester, Erik Garrison, Mika Matsuzaki, Jake Parrott, Harper Reed, and Pam Yung.
+
+
+## Disclaimer
+
+The information provided on fnbcovidguide.com (including all links and downloads) is for general informational purposes only and provided in good faith. We make no representation or warranty of any kind, express or implied, regarding its accuracy or completeness and do not accept any liability to you for any loss or damage of any kind incurred as a result of reliance on it.
