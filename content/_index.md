@@ -30,7 +30,7 @@ Please share this document actively and widely: the more businesses adopt these 
 
 ### We need help translating this document
 
-Please translate this document into any language and share your translation widely. There have been requests for translations into: Vietnamese, Traditional Chinese, Korean, Portuguese, French, Italian.
+Please translate this document into any language and share your translation widely. There have been requests for translations into: Vietnamese, Traditional Chinese, Korean, Portuguese, Italian.
 
 If you intend to translate, please 
 * Look [here](https://docs.google.com/spreadsheets/d/1FcycksxjVAverq6UVtnmsvjf5a8yX0Qnl44Q3qfUITI/edit?usp=sharing) first to see if anyone else is already working on that language.
