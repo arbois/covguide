@@ -23,6 +23,7 @@ These are the most current PDF versions of the guide.
 * [Français](https://docs.google.com/document/d/10Od_IRt1S20r062b7-I_ztIgR8m418Qwd23wF91ElgQ/export?format=pdf); received 23/3/2020; [comment here](https://docs.google.com/document/d/10Od_IRt1S20r062b7-I_ztIgR8m418Qwd23wF91ElgQ/edit?usp=sharing); translated by Lucy Crossley. 
 * [Burmese](https://docs.google.com/document/d/1dVjGP6gIqyiE9nAA0Og9HCm7VVr6VUtzCGGE7JPcyJQ/export?format=pdf); received 24/3/2020; [comment here](https://docs.google.com/document/d/1dVjGP6gIqyiE9nAA0Og9HCm7VVr6VUtzCGGE7JPcyJQ/edit?usp=sharing); translated by [San Lin Tun](https://www.facebook.com/san.lintun.12) and [Karen Vinalay](http://www.karenvinalay.com/). 
 * [العربية](https://docs.google.com/document/d/1AQcKh4r-sSqOzxgBBEjzHhrZSXRpL2YisCNghDYYiDc/export?format=pdf); received 24/3/2020; [comment here](https://docs.google.com/document/d/1AQcKh4r-sSqOzxgBBEjzHhrZSXRpL2YisCNghDYYiDc/edit?usp=sharing); translated by [Nadine Nour el Din](https://twitter.com/nadinenoureldin).
+* [Deutsch](https://docs.google.com/document/d/1EJunUnIMcwMuZ_-IIge4U947lGHcoeuaW00LrSuZvGs/export?format=pdf); received 24/3/2020; [comment here](https://docs.google.com/document/d/1EJunUnIMcwMuZ_-IIge4U947lGHcoeuaW00LrSuZvGs/edit?usp=sharing); translated by [Mona Leone](https://www.monaleone.de/).
 
 ### Share this guide
 
