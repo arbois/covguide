@@ -10,11 +10,17 @@ draft: false
 
 ---
 
-This guide is specifically written to help people in the F&B industry reduce the risk of their businesses accidentally spreading Coronavirus (aka Covid-19). 
+These two guides are specifically written to help businesses in the F&B industry respond during Coronavirus (aka Covid-19) outbreaks. 
 
 The suggestions here are low/no-cost and are generally good practice—they have also been evaluated by epidemiologists, public health experts, biologists, and doctors.
 
-We'll update the English version of the guide continually to incorporate comments and new developments as we learn more about coronavirus. 
+### NEW: Coronavirus Guide for Takeout/Delivery Businesses
+
+This is a guide for restaurants transitioning to takeout/delivery during a coronavirus outbreak. To download the most current English version of this guide, [click here (PDF)](https://docs.google.com/document/d/1SZY-puQHYhoyWbuzFz1ZVmy0Tu_IB7grjE86qPKU35c/export?format=pdf). To comment on this guide, [click here](https://docs.google.com/document/d/1SZY-puQHYhoyWbuzFz1ZVmy0Tu_IB7grjE86qPKU35c/edit?usp=sharing). 
+
+### General Coronavirus Guide for F&B Businesses 
+
+This is a general guide for F&B businesses to reduce their risk of transmitting coronavirus. We'll update the English version of the guide continually to incorporate comments and new developments as we learn more about the virus and the disease it causes. 
 
 These are the most current PDF versions of the guide.
 * [English](https://docs.google.com/document/d/13n1TeOl_cB_jJhRzGNztgInzTZhWpLwW52K4q7hwnlQ/export?format=pdf); [comment here](https://docs.google.com/document/d/13n1TeOl_cB_jJhRzGNztgInzTZhWpLwW52K4q7hwnlQ/edit?usp=sharing).
@@ -26,11 +32,7 @@ These are the most current PDF versions of the guide.
 * [Deutsch](https://docs.google.com/document/d/1EJunUnIMcwMuZ_-IIge4U947lGHcoeuaW00LrSuZvGs/export?format=pdf); received 24/3/2020; [comment here](https://docs.google.com/document/d/1EJunUnIMcwMuZ_-IIge4U947lGHcoeuaW00LrSuZvGs/edit?usp=sharing); translated by [Mona Leone](https://www.monaleone.de/).
 * [Italiano](https://docs.google.com/document/d/1yYsSh9Zq9BdOZZpGICWnuA6OlDHbVudbEzclMj0re-E/export?format=pdf); received 27/3/2020; [comment here](https://docs.google.com/document/d/1yYsSh9Zq9BdOZZpGICWnuA6OlDHbVudbEzclMj0re-E/edit?usp=sharing); translated by [Clelia di Casola]().
 
-### Share this guide
-
-Please share this document actively and widely: the more businesses adopt these suggestions, the safer we'll all be. When re-posting or sharing, please link directly to this website.
-
-### We need help translating this document
+#### Help translate this guide
 
 Please translate this document into any language and share your translation widely. There have been requests for translations into: Vietnamese, Traditional Chinese, Korean, Portuguese, Italian.
 
@@ -39,8 +41,7 @@ If you intend to translate, please
 * If no one's on it yet, let us know that you're on the job using [this form](https://forms.gle/SQodYzXV2gAA6q6W8).
 * Be sure to read the [license terms](https://creativecommons.org/licenses/by-nc/4.0/) before you begin work.
 
-
-### Translation instructions
+#### Translation instructions
 
 * Create a duplicate copy of the original document by [clicking here](https://docs.google.com/document/d/13n1TeOl_cB_jJhRzGNztgInzTZhWpLwW52K4q7hwnlQ/copy).
 * Translate the copy of the original document into your chosen language.
@@ -51,9 +52,14 @@ If you intend to translate, please
     * Copy the sharing link by clicking on "Copy link"
 * [Email me](mailto:me@vaughntan.org) the sharing link to post your translation on this website. We'll post a PDF version of your translation that is automatically generated from this live document. You can continue to edit and update your live document—any edits you make will automatically update the PDF.
 
+### Share these guides
+
+Please share these guides actively and widely: the more businesses adopt these suggestions, the safer we'll all be. When re-posting or sharing, please link directly to this website.
+
+
 ### Contributors
 
-Many people helped put this together, including Laurence Berland, Feroz Gajia, Jennifer Gardy, Paul Henninger, Belinda Lester, Erik Garrison, Mika Matsuzaki, Jake Parrott, Harper Reed, and Pam Yung.
+Many people helped put this together, including Laurence Berland, Feroz Gajia, Jennifer Gardy, Paul Henninger, Belinda Lester, Erik Garrison, Matthew Jozwiak, Mika Matsuzaki, Jake Parrott, Harper Reed, and Pam Yung.
 
 
 ### Disclaimer
