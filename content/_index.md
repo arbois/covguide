@@ -14,7 +14,7 @@ These two guides are specifically written to help businesses in the F&B industry
 
 The suggestions here are low/no-cost and are generally good practice—they have also been evaluated by epidemiologists, public health experts, biologists, and doctors.
 
-### NEW: Coronavirus Guide for Takeout/Delivery Businesses
+### Coronavirus Guide for Takeout/Delivery Businesses
 
 This is a guide for restaurants transitioning to takeout/delivery during a coronavirus outbreak. To download the most current English version of this guide, [click here (PDF)](https://docs.google.com/document/d/1SZY-puQHYhoyWbuzFz1ZVmy0Tu_IB7grjE86qPKU35c/export?format=pdf). To comment on this guide, [click here](https://docs.google.com/document/d/1SZY-puQHYhoyWbuzFz1ZVmy0Tu_IB7grjE86qPKU35c/edit?usp=sharing). 
 
@@ -30,7 +30,7 @@ These are the most current PDF versions of the guide.
 * [Burmese](https://docs.google.com/document/d/1dVjGP6gIqyiE9nAA0Og9HCm7VVr6VUtzCGGE7JPcyJQ/export?format=pdf); received 24/3/2020; [comment here](https://docs.google.com/document/d/1dVjGP6gIqyiE9nAA0Og9HCm7VVr6VUtzCGGE7JPcyJQ/edit?usp=sharing); translated by [San Lin Tun](https://www.facebook.com/san.lintun.12) and [Karen Vinalay](http://www.karenvinalay.com/). 
 * [العربية](https://docs.google.com/document/d/1AQcKh4r-sSqOzxgBBEjzHhrZSXRpL2YisCNghDYYiDc/export?format=pdf); received 24/3/2020; [comment here](https://docs.google.com/document/d/1AQcKh4r-sSqOzxgBBEjzHhrZSXRpL2YisCNghDYYiDc/edit?usp=sharing); translated by [Nadine Nour el Din](https://twitter.com/nadinenoureldin).
 * [Deutsch](https://docs.google.com/document/d/1EJunUnIMcwMuZ_-IIge4U947lGHcoeuaW00LrSuZvGs/export?format=pdf); received 24/3/2020; [comment here](https://docs.google.com/document/d/1EJunUnIMcwMuZ_-IIge4U947lGHcoeuaW00LrSuZvGs/edit?usp=sharing); translated by [Mona Leone](https://www.monaleone.de/).
-* [Italiano](https://docs.google.com/document/d/1yYsSh9Zq9BdOZZpGICWnuA6OlDHbVudbEzclMj0re-E/export?format=pdf); received 27/3/2020; [comment here](https://docs.google.com/document/d/1yYsSh9Zq9BdOZZpGICWnuA6OlDHbVudbEzclMj0re-E/edit?usp=sharing); translated by [Clelia di Casola]().
+* [Italiano](https://docs.google.com/document/d/1yYsSh9Zq9BdOZZpGICWnuA6OlDHbVudbEzclMj0re-E/export?format=pdf); received 27/3/2020; [comment here](https://docs.google.com/document/d/1yYsSh9Zq9BdOZZpGICWnuA6OlDHbVudbEzclMj0re-E/edit?usp=sharing); translated by [Clelia di Casola](http://www.linkedin.com/in/cleliadicasola).
 
 #### Help translate this guide
 
