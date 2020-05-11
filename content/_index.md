@@ -10,7 +10,7 @@ draft: false
 
 ---
 
-These two guides are specifically written to help businesses in the F&B industry respond during Coronavirus (aka Covid-19) outbreaks. 
+These two guides are specifically written to help businesses in the F&B industry respond during Coronavirus (aka Covid-19) outbreaks. They are relevant both during lockdowns and when F&B businesses are allowed to re-open. 
 
 The suggestions here are low/no-cost and are generally good practice—they have also been evaluated by epidemiologists, public health experts, biologists, and doctors.
 
@@ -31,7 +31,8 @@ These are the most current PDF versions of the guide.
 * [العربية](https://docs.google.com/document/d/1AQcKh4r-sSqOzxgBBEjzHhrZSXRpL2YisCNghDYYiDc/export?format=pdf); received 24/3/2020; [comment here](https://docs.google.com/document/d/1AQcKh4r-sSqOzxgBBEjzHhrZSXRpL2YisCNghDYYiDc/edit?usp=sharing); translated by [Nadine Nour el Din](https://twitter.com/nadinenoureldin).
 * [Deutsch](https://docs.google.com/document/d/1EJunUnIMcwMuZ_-IIge4U947lGHcoeuaW00LrSuZvGs/export?format=pdf); received 24/3/2020; [comment here](https://docs.google.com/document/d/1EJunUnIMcwMuZ_-IIge4U947lGHcoeuaW00LrSuZvGs/edit?usp=sharing); translated by [Mona Leone](https://www.monaleone.de/).
 * [Italiano](https://docs.google.com/document/d/1yYsSh9Zq9BdOZZpGICWnuA6OlDHbVudbEzclMj0re-E/export?format=pdf); received 27/3/2020; [comment here](https://docs.google.com/document/d/1yYsSh9Zq9BdOZZpGICWnuA6OlDHbVudbEzclMj0re-E/edit?usp=sharing); translated by [Clelia di Casola](http://www.linkedin.com/in/cleliadicasola).
-
+* [Ελληνικά](https://docs.google.com/document/d/1yJrAp4JbxRV5IBT5JexlQJDQ0wdWjYUP62YsIh0gCFc/export?format=pdf); received 11/5/2020; [comment here](https://docs.google.com/document/d/1yJrAp4JbxRV5IBT5JexlQJDQ0wdWjYUP62YsIh0gCFc/edit?usp=sharing); translated by [Iliana Katsaridou](https://servicexpertise.com/).
+ 
 #### Help translate this guide
 
 Please translate this document into any language and share your translation widely. There have been requests for translations into: Vietnamese, Traditional Chinese, Korean, Portuguese, Italian.
@@ -54,12 +55,12 @@ If you intend to translate, please
 
 ### Share these guides
 
-Please share these guides actively and widely: the more businesses adopt these suggestions, the safer we'll all be. When re-posting or sharing, please link directly to this website.
+Please share these guides actively and widely. When re-posting or sharing, please link directly to this website.
 
 
 ### Contributors
 
-Many people helped put this together, including Laurence Berland, Feroz Gajia, Jennifer Gardy, Paul Henninger, Belinda Lester, Erik Garrison, Matthew Jozwiak, Mika Matsuzaki, Jake Parrott, Harper Reed, and Pam Yung.
+Many people helped put this together, including Laurence Berland, Feroz Gajia, Jennifer Gardy, Paul Henninger, Belinda Lester, Erik Garrison, Matthew Jozwiak, Mika Matsuzaki, Jake Parrott, Harper Reed, and Pam Yung. Guide translators are listed with their translations. 
 
 
 ### Disclaimer
