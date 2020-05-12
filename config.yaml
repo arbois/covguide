@@ -1,6 +1,6 @@
 baseURL: /
 
-publishDir: "docs"
+publishDir: "public"
 languageCode: en-us
 title: "Coronavirus Guide for the F&B Industry"
 
