@@ -14,10 +14,6 @@ These two guides are specifically written to help businesses in the F&B industry
 
 The suggestions here are low/no-cost and are generally good practice—they have also been evaluated by epidemiologists, public health experts, biologists, and doctors.
 
-### Coronavirus Guide for Takeout/Delivery Businesses
-
-This is a guide for restaurants transitioning to takeout/delivery during a coronavirus outbreak. To download the most current English version of this guide, [click here (PDF)](https://docs.google.com/document/d/1SZY-puQHYhoyWbuzFz1ZVmy0Tu_IB7grjE86qPKU35c/export?format=pdf). To comment on this guide, [click here](https://docs.google.com/document/d/1SZY-puQHYhoyWbuzFz1ZVmy0Tu_IB7grjE86qPKU35c/edit?usp=sharing). 
-
 ### General Coronavirus Guide for F&B Businesses 
 
 This is a general guide for F&B businesses to reduce their risk of transmitting coronavirus. We'll update the English version of the guide continually to incorporate comments and new developments as we learn more about the virus and the disease it causes. 
@@ -53,10 +49,13 @@ If you intend to translate, please
     * Copy the sharing link by clicking on "Copy link"
 * [Email me](mailto:me@vaughntan.org) the sharing link to post your translation on this website. We'll post a PDF version of your translation that is automatically generated from this live document. You can continue to edit and update your live document—any edits you make will automatically update the PDF.
 
+### Coronavirus Guide for Takeout/Delivery Businesses
+
+This is a guide for restaurants transitioning to takeout/delivery during a coronavirus outbreak. To download the most current English version of this guide, [click here (PDF)](https://docs.google.com/document/d/1SZY-puQHYhoyWbuzFz1ZVmy0Tu_IB7grjE86qPKU35c/export?format=pdf). To comment on this guide, [click here](https://docs.google.com/document/d/1SZY-puQHYhoyWbuzFz1ZVmy0Tu_IB7grjE86qPKU35c/edit?usp=sharing). 
+
 ### Share these guides
 
 Please share these guides actively and widely. When re-posting or sharing, please link directly to this website.
-
 
 ### Contributors
 
