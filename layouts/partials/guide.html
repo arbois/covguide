@@ -1,0 +1,21 @@
+<li>
+    <a href="https://docs.google.com/document/d/{{ .doc_id }}/export?format=pdf" target="_blank">{{ .language }}</a>; 
+    {{ with .received_date }}received {{ dateFormat "Jan 2, 2006" . }}; {{ end }}
+    <a href="https://docs.google.com/document/d/{{ .doc_id  }}/edit?usp=sharing" target="_blank">comment here</a>;
+    
+    {{ with .translators }}
+    translated by 
+        {{ $len := len . }}
+        {{ if eq $len 1 }}
+            {{ partial "translator" (index . 0) }}.
+        {{ else }}
+            {{ $last := sub $len 1 }}
+            {{ range first $last . }}
+                {{ partial "translator" . }},
+            {{ end }}
+            and {{ partial "translator" (index . $last) }}.
+            
+
+        {{ end }}
+    {{ end }}
+</li>

@@ -1,0 +1,88 @@
+
+- 
+  doc_id: 1SZY-puQHYhoyWbuzFz1ZVmy0Tu_IB7grjE86qPKU35c
+  language: English
+  received_date: "2020-03-21"
+- 
+  doc_id: 1Xvi52dZCsps0OPARF1qnBWfS3u7bdTgioR_Su4YIcRw
+  language: Español
+  received_date: "2020-03-21"
+  translators: 
+    - 
+      translator: "Esteban Londoño Jaramillo"
+      translator_url: "http://www.instagram.com/krumelco"
+- 
+  doc_id: 1tQA0WFvSzZIMzabcZgKs3e4P-zs4W1l1XR8mAJCuOCc
+  language: "中文 (简体)"
+  received_date: "2020-03-22"
+  translators: 
+    - 
+      translator: "Larissa Zhou"
+      translator_url: "http://larissazhou.github.io/"
+    - 
+      translator: "Lena Zhou"
+      translator_url: "https://www.linkedin.com/in/lenaqzhou/"
+    - 
+      translator: "Yan Liu"
+      translator_url: "https://www.linkedin.com/in/yan-liu-59100016a/"
+    - 
+      translator: "Iris Huang"
+      translator_url: "http://linkedin.com/in/iris-yu-ting-huang-9833861"
+- 
+  doc_id: 10Od_IRt1S20r062b7-I_ztIgR8m418Qwd23wF91ElgQ
+  language: Français
+  received_date: "2020-03-23"
+  translators: 
+    - 
+      translator: "Lucy Crossley"
+- 
+  doc_id: 1dVjGP6gIqyiE9nAA0Og9HCm7VVr6VUtzCGGE7JPcyJQ
+  language: Burmese
+  received_date: "2020-03-24"
+  translators: 
+    - 
+      translator: "San Lin Tun"
+      translator_url: "https://www.facebook.com/san.lintun.12"
+    - 
+      translator: "Karen Vinalay"
+      translator_url: http://www.karenvinalay.com/
+- 
+  doc_id: 1AQcKh4r-sSqOzxgBBEjzHhrZSXRpL2YisCNghDYYiDc
+  language: العربية
+  received_date: "2020-03-24"
+  translators: 
+    - 
+      translator: "Nadine Nour el Din"
+      translator_url: https://twitter.com/nadinenoureldin
+- 
+  doc_id: 1EJunUnIMcwMuZ_-IIge4U947lGHcoeuaW00LrSuZvGs
+  language: Deutsch
+  received_date: "2020-03-24"
+  translators: 
+    - 
+      translator: "Mona Leone"
+      translator_url: https://www.monaleone.de/
+- 
+  doc_id: 1EJunUnIMcwMuZ_-IIge4U947lGHcoeuaW00LrSuZvGs
+  language: Italiano
+  received_date: "2020-03-27"
+  translators: 
+    - 
+      translator: "Clelia di Casola"
+      translator_url: http://www.linkedin.com/in/cleliadicasola
+- 
+  doc_id: 1yYsSh9Zq9BdOZZpGICWnuA6OlDHbVudbEzclMj0re-E
+  language: Italiano
+  received_date: "2020-03-27"
+  translators: 
+    - 
+      translator: "Clelia di Casola"
+      translator_url: http://www.linkedin.com/in/cleliadicasola
+- 
+  doc_id: 1yJrAp4JbxRV5IBT5JexlQJDQ0wdWjYUP62YsIh0gCFc
+  language: Ελληνικά
+  received_date: "2020-05-11"
+  translators: 
+    - 
+      translator: "Iliana Katsaridou"
+      translator_url: https://servicexpertise.com
