@@ -1,5 +1,5 @@
 ---
-title: "Coronavirus Guide for the F&B Industry"
+title: "Coronavirus Guides for the F&B Industry"
 date: 202-03-14T21:48:09Z
 draft: false
 
@@ -8,15 +8,16 @@ draft: false
 
 ## What it is, why it’s bad—and how you can help
 
----
-
 These two guides are specifically written to help businesses in the F&B industry respond during Coronavirus (aka Covid-19) outbreaks. They are relevant both during lockdowns and when F&B businesses are allowed to re-open. 
 
 The suggestions here are low/no-cost and are generally good practice—they have also been evaluated by epidemiologists, public health experts, biologists, and doctors.
 
+
+
+# Guides
 ---
 
-## Coronavirus Guide for Takeout/Delivery Businesses
+## {{< iconbr >}} Coronavirus Guide for Takeout/Delivery Businesses
 
 This is a guide for restaurants transitioning to takeout/delivery during a coronavirus outbreak. 
 
@@ -26,15 +27,18 @@ This are the most current PDF versions of the guide.
 
 
 ---
-
-## General Coronavirus Guide for F&B Businesses 
+## {{< iconbr >}} General Coronavirus Guide for F&B Businesses 
 
 This is a general guide for F&B businesses to reduce their risk of transmitting coronavirus. We'll update the English version of the guide continually to incorporate comments and new developments as we learn more about the virus and the disease it causes. 
 
 These are the most current PDF versions of the guide.
 {{< general_guides >}}
+
+
+---
  
-#### Help translate this guide
+
+# Help translate these guides
 
 Please translate this document into any language and share your translation widely. There have been requests for translations into: Vietnamese, Traditional Chinese, Korean, Portuguese, Italian.
 
