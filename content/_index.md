@@ -3,7 +3,6 @@ title: "Coronavirus Guides for the F&B Industry"
 date: 202-03-14T21:48:09Z
 draft: false
 
-
 ---
 
 ## What it is, why it’s bad—and how you can help
